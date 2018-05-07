@@ -8,8 +8,7 @@ static const int VMAX = 10000;
 int n, A[MAX], s;
 
 int B[MAX], T[VMAX + 1];
-
-int slove() {
+1443 int slove() {
   int ans = 0;
   bool V[MAX];
 
